@@ -1,0 +1,54 @@
+Q.1) List out features of HTML5?
+--> HTML5 is addition of the semantic tag(Tag that provide meaning to an html page rather
+ than just person)
+eg. Audio,video,form,table,header,footer,navtag,artical
+its makes our life easier to find and hunt the element and access to saw the API like 
+local storage and canvas.
+---------------------------------------------------------------------------------------
+
+Q.2) HTML Entity?
+-->HTML entities are special codes that we use in web pages to show symbols or characters that 
+are a bit tricky to type or that have special meanings in web code. They start with an ampersand (&)
+and end with a semicolon (;).
+For example, &lt; shows the less-than sign <, 
+2.&amp; shows an ampersand 
+3.&hearts shows hear symbol ❤
+4.&copy shows © symbol
+5.&quot shows the double quote "
+---------------------------------------------------------------------------------------------
+Q.3)Accessibility:
+-->Accessibility in web devlopment referes designing/coding web page in such way that the peoples with
+disability can perceive,understand ,navigate and intract with digital content effectively.
+
+Important of Accessibility:
+1)inclusivity- it ensure that everyone should able to access the website or application basically 
+its faire treating everyone equally 
+
+2)Broder audienece reached/Help more people:By making websites accessible, you're not only accommodating 
+people with disabilities but also catering to a broader audience. This includes elderly users, people 
+with situational limitations (like using a mobile device in bright sunlight), and individuals with 
+temporary disabilities
+.
+3)Better user experinece: accessibledesign often lead to better usability for everyone.Clear navigation 
+alt text for image and easily readable content benifits for all users not only with disabilities.
+
+4)Improved SEO: Many accessibility practices also contribute positively to search engine optimization
+ (SEO). For example, descriptive alt text for images helps search engines understand content,
+  potentially improving search rankings.
+
+5)Buissness growth :accessible website reacged wideer audience increase engagement ,loyality,and potential 
+customer base
+
+-----------------------------------------------------------------------------------
+Q.4 Improved accessibility of HTML
+-->1) use semantic html elements - using semantic html element it helps to improve the accessiblity by 
+providing meaningful content to the user.semanatic elements like <nav>,<footer>,<image> gives the purpose 
+of different section making it easier for user with disablities.
+
+2) Provide Alt Text for Images: Alt text in the "alt" attribute of images helps people who can't see 
+the images. Screen readers read this text aloud, making visual content understandable for those with 
+visual impairments. Try to keep the alt text short, descriptive, and closely related to the image's c
+ontent and purpose. This way, it ensures everyone gets the picture, even if they can't see it.
+
+
+
